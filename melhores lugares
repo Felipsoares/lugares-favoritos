@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares em Taubaté</title>
+</head>
+<body>
+    <h1>Meus Lugares Favoritos em Taubaté</h1>
+
+    <h2>Parque do Itaim</h2>
+    <img src="link_para_imagem_parque.jpg" alt="Imagem do Parque do Itaim">
+    <p>O Parque do Itaim é um lugar encantador para passeios, atividades físicas e contato com a natureza.</p>
+
+    <h2>Praça Dom Epaminondas</h2>
+    <img src="link_para_imagem_praca.jpg" alt="Imagem da Praça Dom Epaminondas">
+    <p>A Praça Dom Epaminondas é um ponto central na cidade, ótima para encontros e eventos culturais.</p>
+
+    <h2>Café do Centro</h2>
+    <img src="link_para_imagem_cafe.jpg" alt="Imagem do Café do Centro">
+    <p>O Café do Centro é um lugar aconchegante para desfrutar de um bom café e conversar com amigos.</p>
+
+    <p><a href="sua_pagina_original.html">Voltar para a Página Inicial</a></p>
+</body>
+</html>
